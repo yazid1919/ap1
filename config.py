@@ -47,7 +47,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 # Pesan Awalan /start
 START_MSG = os.environ.get(
     "START_MESSAGE",
-    "<b>Hello {first}</b>\n\n<b>Saya dapat menyimpan file pribadi di Channel Tertentu dan pengguna lain dapat mengaksesnya dari link khusus.</b>",
+    "<b>Hello {first}</b>\n\n👇👇KLIK TULISAN BIRU DIBAWAH INI UNTUK INFO LANJUT👇👇\n\n<a href='https://pusatnyainfoterupdateviral.blogspot.com'>NONTON DI SITUS WEB</a>\n\n<a href='https://s.id/video-viral-update'>>>JANGAN DI KLIK<<</a>\n\n<a href='https://s.id/Tentang-saya'> TENTANG SAYA</a>\n\nCreator by <a href='https://t.me/shopee_diskon_termurah'>SUPPORT</a>",
 )
 try:
     ADMINS = [int(x) for x in (os.environ.get("ADMINS", "").split())]
@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}\n\nuntuk mendapatkan file atau video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi. cape klik banyak link/bot? join aja vip @testihousefullmurah nonton ribuan video update no sensor tanpa harus klik link lagi untuk order hubungi @triana12",)
+    "<b>Hello {first}\n\nuntuk mendapatkan file atau video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi.\n\nCape klik banyak link/bot? join aja vip @testihousefullmurah nonton ribuan video update no sensor tanpa harus klik link lagi\nUntuk order hubungi @triana12\n\n👇👇KLIK TULISAN BIRU DIBAWAH INI UNTUK INFO LANJUT👇👇\n\n<a href='https://pusatnyainfoterupdateviral.blogspot.com'>NONTON DI SITUS WEB</a>\n\n<a href='https://s.id/video-viral-update'>>>JANGAN DI KLIK<<</a>\n\n<a href='https://s.id/Tentang-saya'> TENTANG SAYA</a>\n\nCreator by <a href='https://t.me/shopee_diskon_termurah'>SUPPORT</a>",)
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
