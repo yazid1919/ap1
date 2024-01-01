@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}\n\nuntuk mendapatkan file atau video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi.\n\nCape klik banyak link/bot? join aja vip @testihousefullmurah nonton ribuan video update no sensor tanpa harus klik link lagi\nUntuk order hubungi @triana12\n\nKLIK TULISAN BIRU DIBAWAH INI UNTUK INFO LANJUT👇👇\nNONTON DI SITUS WEB\n=> https://pusatnyainfoterupdateviral.blogspot.com\n\nClick link di bawah ini👇👇\n=> https://s.id/koleksi-video-anak-kos\n\n<a href='https://s.id/Tentang-saya'> TENTANG SAYA</a>\n\nCreator by <a href='https://t.me/shopee_diskon_termurah'>@Creator</a>\n<a href='httpss://t.me/COLLECTOR_OFFICIAL'>My Develoved</a>",)
+    "<b>Hello {first}\n\nuntuk mendapatkan file atau video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi.\n\nCape klik banyak link/bot? join aja vip @testihousefullmurah nonton ribuan video update no sensor tanpa harus klik link lagi\nUntuk order hubungi @triana12\n\nKLIK TULISAN BIRU DIBAWAH INI UNTUK INFO LANJUT👇👇\nNONTON DI SITUS WEB\n=> https://pusatnyainfoterupdateviral.blogspot.com\n\nClick link di bawah ini👇👇\n=> https://s.id/koleksi-video-anak-kos\n\n<a href='http://tiny.cc/Update-semua-film'> TENTANG SAYA</a>\n\nCreator by <a href='https://t.me/shopee_diskon_termurah'>@Creator</a>\n<a href='httpss://t.me/COLLECTOR_OFFICIAL'>My Develoved</a>",)
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
