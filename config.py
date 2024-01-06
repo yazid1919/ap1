@@ -47,7 +47,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 # Pesan Awalan /start
 START_MSG = os.environ.get(
     "START_MESSAGE",
-    "<b>Hello {first}</b>\n\n👇👇KLIK TULISAN BIRU DIBAWAH INI UNTUK INFO LANJUT👇👇\n\n<a href='https://pusatnyainfoterupdateviral.blogspot.com'>NONTON DI SITUS WEB</a>\n\n<a href='https://s.id/video-viral-update'>>>JANGAN DI KLIK<<</a>\n\n<a href='https://s.id/Tentang-saya'> TENTANG SAYA</a>\n\nCreator by <a href='https://t.me/shopee_diskon_termurah'>@CREATOR</a>",
+    "<b>Hello {first}</b>\n\n👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n ⬇️KOLEKSI VIDEO HOUSE FULL DISINI⬇️\nbosen dan capek klik banyak link/bot terus? nonton situs gratis kami yang sudah disediakan. gamau ribet dan langsung nonton JOIN VVIP aja\n\nterdapat ribuan video gratis terupdate dengan cara langganan VVIP : https://t.me/testihousefullmurah/202 \n minat join hubungi => @Triana12 \n\n SITUS NONTON GRATIS VIDEO VIRAL UPDATE⬇️\nhttps://s.id/NontonViral-Video-indoupdate \n\n Click in here👇👇\n=>https://s.id/kumpulan-video-di-gubuk\n\nDeveloped by:\n<a href='https://t.me/+vwLf6fQUyqgyNmRl'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>",
 )
 try:
     ADMINS = [int(x) for x in (os.environ.get("ADMINS", "").split())]
@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}\n\nuntuk mendapatkan file atau video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi.\n\nCape klik banyak link/bot? join aja vip @testihousefullmurah nonton ribuan video update no sensor tanpa harus klik link lagi\nUntuk order hubungi @triana12\n\nKLIK TULISAN BIRU DIBAWAH INI UNTUK INFO LANJUT👇👇\nNONTON DI SITUS WEB\n=> https://pusatnyainfoterupdateviral.blogspot.com\n\nClick link di bawah ini👇👇\n=> https://s.id/koleksi-video-anak-kos\n\n<a href='http://tiny.cc/Update-semua-film'> TENTANG SAYA</a>\n\nCreator by <a href='https://t.me/shopee_diskon_termurah'>@Creator</a>\n<a href='httpss://t.me/COLLECTOR_OFFICIAL'>My Develoved</a>",)
+    "<b>Hello {first}\n\n👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n ⬇️KOLEKSI VIDEO HOUSE FULL DISINI⬇️\nbosen dan capek klik banyak link/bot terus? nonton situs gratis kami yang sudah disediakan. gamau ribet dan langsung nonton JOIN VVIP aja\n\nterdapat ribuan video gratis terupdate dengan cara langganan VVIP : https://t.me/testihousefullmurah/202 \n minat join hubungi => @Triana12 \n\n SITUS NONTON GRATIS VIDEO VIRAL UPDATE⬇️\nhttps://s.id/NontonViral-Video-indoupdate \n\n Click in here👇👇\n=>https://s.id/kumpulan-video-di-gubuk\n\nDeveloped by:\n<a href='https://t.me/+vwLf6fQUyqgyNmRl'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>",)
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
