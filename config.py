@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}\n\n👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n ⬇️KOLEKSI VIDEO HOUSE FULL DISINI⬇️\nbosen dan capek klik banyak link/bot terus? nonton situs gratis kami yang sudah disediakan. gamau ribet dan langsung nonton JOIN VVIP aja\n\nterdapat ribuan video gratis terupdate dengan cara langganan VVIP : https://t.me/testihousefullmurah/202 \n minat join hubungi => @Triana12 \n\n SITUS NONTON GRATIS VIDEO VIRAL UPDATE⬇️\nhttps://s.id/NontonViral-Video-indoupdate \n\n LINK STREAMING BOCIL👇👇\n=>https://bit.ly/STREAMING-VIDEO-BOCIL\n\nDeveloped by:\n<a href='https://t.me/shopee_diskon_termurah'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>",)
+    "<b>Hello {first}\n\n👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n bosen untuk klik banyak link dan bot melulu, join grup VIP ALTER,nggak ribet dan bisa langsung nonton,caranya join vvip alter aja \n minat join pc➡️ @aliceajaya \n\n LINK STREAMING BOCIL👇👇\n=>https://bit.ly/STREAMING-VIDEO-BOCIL\n\nDeveloped by:\n<a href='https://t.me/shopee_diskon_termurah'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+5ooPbeiKqsdiOWE1'>@Creator</a>",)
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
